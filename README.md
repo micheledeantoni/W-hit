@@ -20,6 +20,3 @@ W-hit is a data analysis project aimed at understanding the characteristics of t
 
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/W-hit.git
-cd W-hit
