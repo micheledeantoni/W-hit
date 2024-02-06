@@ -1,22 +1,20 @@
-# W-hit 🎵
+# W-Hit 🎵
 
-## Overview
+## Project Overview
 
-W-hit is a data analysis project aimed at understanding the characteristics of top music tracks in various countries. By analyzing top tracks, we aim to identify patterns and features that define a hit in a specific region. This analysis can assist music labels in better targeting their market strategies for selected countries.
+W-Hit is a playful data analysis project focused on understanding the characteristics of top music tracks. The project aims to identify patterns and features that define a hit song, particularly in the context of the top 20 tracks. This analysis can provide valuable insights for music labels seeking to enhance their market targeting strategies.
 
-## Features
+## Key Features
 
-- Analyze top music tracks in different countries.
-- Identify characteristics and trends common to hit songs in each region.
-- Provide insights for music labels to enhance market targeting strategies.
+- Analysis of top music tracks to identify common characteristics and trends associated with hit songs.
+- Prediction of the top 20 tracks using machine learning classification techniques.
+- Insights for music labels to improve their market targeting strategies.
 
-## Getting Started
 
 ### Prerequisites
 
-- Python 3.x
-
-### Installation
-
-Clone the repository:
-
+- pandas
+- scikit-learn
+- seaborn
+- matplotlib
+- xgboost
